@@ -26,7 +26,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to update tests as appropriate.
 
 ## Gif
-![Alt Text](https://raw.githubusercontent.com/FahirL/MediaUrl/master/iFrame%20gif.gif)
+![Alt Text](https://github.com/FahirL/MediaUrl/blob/master/AlertJS%20gif.gif?raw=true)
 
 
 
