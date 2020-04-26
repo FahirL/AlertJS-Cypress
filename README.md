@@ -1,6 +1,6 @@
-# iFrame AutomationCypress
+# alertJS AutomationCypress
 
-This is my an example project for doing web automation testing with Cypress. This project tests some of the functionalities of the iFrame on web. This app is hosted as a JavaScript.
+This is my an example project for doing web automation testing with Cypress. This project tests some of the functionalities of the app events (window:alert, window:confirm and window:prompt) on web. This app is hosted as a JavaScript.
 
 ## Installation
 
