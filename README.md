@@ -1,6 +1,6 @@
-# alertJS AutomationCypress
+# iFrame AutomationCypress
 
-This is my an example project for doing web automation testing with Cypress. This project tests some of the functionalities of the app events (window:alert, window:confirm and window:prompt) on web. This app is hosted as a JavaScript.
+This is my an example project for doing web automation testing with Cypress. This project tests some of the functionalities of the iFrame on web. This app is hosted as a JavaScript.
 
 ## Installation
 
@@ -10,10 +10,14 @@ Visit  [Cypress Web](https://docs.cypress.io/guides/getting-started/installing-c
 npm install cypress --save-dev
 ```
 
-## Installation node
+## Usage
 
-```
-npm install
+```python
+import foobar
+
+foobar.pluralize('word') # returns 'words'
+foobar.pluralize('goose') # returns 'geese'
+foobar.singularize('phenomena') # returns 'phenomenon'
 ```
 
 ## Contributing
@@ -22,7 +26,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to update tests as appropriate.
 
 ## Gif
-![Alt Text](https://github.com/FahirL/MediaUrl/blob/master/AlertJS%20gif.gif?raw=true)
+![Alt Text](https://raw.githubusercontent.com/FahirL/MediaUrl/master/iFrame%20gif.gif)
 
 
 
