@@ -10,14 +10,10 @@ Visit  [Cypress Web](https://docs.cypress.io/guides/getting-started/installing-c
 npm install cypress --save-dev
 ```
 
-## Usage
+## Installation node
 
-```python
-import foobar
-
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
+```
+npm install
 ```
 
 ## Contributing
